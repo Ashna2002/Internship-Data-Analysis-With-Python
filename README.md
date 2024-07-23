@@ -11,3 +11,7 @@ Internship || Main Flow Services and Technologies
     ○ Filtering data based on conditions 
     ○ Handling missing values
     ○ Calculating summary statistics
+✔️TASK 3 :Using the matplotlib library to visualize data
+
+    ○ Visulaize data using Line plot,scatter plot,Bar plot and Histogram
+    ○ Customize the charts with labels, titles, and legends
