@@ -15,9 +15,14 @@ Internship || Main Flow Services and Technologies
 
     ○ Visulaize data using Line plot,scatter plot,Bar plot and Histogram
     ○ Customize the charts with labels, titles, and legends
-
 ✔️TASK 4 : Performing exploratory data analysis
 
     ○ Distribution of variables 
     ○ Identify outliers
     ○ Check for correlations between variables (pearson correlation coefficient)
+✔️TASK 5 : Feature Engineering and Selection
+
+    ○ Generate meaningful features from existing data 
+    ○ Use techniques like PCA or feature importance to select the most important features
+    ○ Optimize feature sets for improved model performance
+
